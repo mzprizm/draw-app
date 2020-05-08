@@ -2,7 +2,7 @@
 
 ## Project Overview: Draw App
 
-_because with all these virutal meetings going on, we need easier ways to whiteboard digitally. Plus, drawing is fun!
+_With so many virtual meetings lately, we need easier ways to whiteboard digitally. Plus, drawing is  a playful, artistic way of passing time._
 
 ### Project Links
 
